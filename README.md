@@ -40,3 +40,5 @@ may.package.jpemote()
 Vous pouvez exécuter les commandes ci-dessus pour voir les résultats. Chaque fonction produira un output basé sur les ressources définies dans le code de notre package.
 
 🪿☘️ **Vous pouvez utiliser les fonctions de Emotejp avec des fonctions natives de Maya, telles que les conditions (if, autre, alors)**
+
+🧶 **Ce projet est soumis a quelques règles : voir le fichier RULES.MD** 🧶

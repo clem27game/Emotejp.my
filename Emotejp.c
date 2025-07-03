@@ -4,7 +4,7 @@
 #include <string.h>
 
 // Liste d'emojis
-const char *emojis[] = {"😀", "😂", "😎", "😍", "🥳", "🤖", "💖", "✨", "🐬", "🪩", "🐍", "❤️", "🩷", "🌷", "💚", "🍓", "🌸", "💗", "💞", "🐢", "🌎", "🍮", "💐", "🌶️", "☘️", "🪿", "🧶", "💝", "🐣", "🐈‍⬛", "🦋", "🍼"};
+const char *emojis[] = {"😀", "😂", "😎", "😍", "🥳", "🤖", "💖", "✨", "🐬", "🪩", "🐍", "❤️", "🩷", "🌷", "💚", "🍓", "🌸", "💗", "💞", "🐢", "🌎", "🍮", "💐", "🌶️", "☘️", "🪿", "🧶", "💝", "🐣", "🐈‍⬛", "🦋", "🍼", "🌝", "🤭", "🌀", "🍥", "🐙", "🐤", "🪐", "🚓", "🦍", "🦥", "👯", "🍞", "🥝", "🌽", "🪼", "🍪", "🍏", "🍠", "🦞", "🍥", "🍘", "🐛"};
 const int emoji_count = sizeof(emojis) / sizeof(emojis[0]);
 
 // Liste de textes en romaji
@@ -14,7 +14,17 @@ const char *textes_japonais[] = {
     "Sayonara", 
     "Ogenki desu ka", 
     "Watashi wa gakusei desu",
-"tomodachi"
+"tomodachi",
+"Ohâyo",
+"Konbanwa",
+"Oyasumi",
+"Kawaii!",
+"Suki",
+"Ganbatte!",
+"Nyan!",
+"Wan",
+"Poka poka",
+"Kira Kira"
 };
 const int texte_count = sizeof(textes_japonais) / sizeof(textes_japonais[0]);
 
